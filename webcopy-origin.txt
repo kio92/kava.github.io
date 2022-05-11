@@ -1,0 +1,232 @@
+Uri: https://apis.google.com/js/client.js?onload=gapiLoaded
+File Name: C:\Downloaded Web Sites\sites.google.com\js\client.js
+Content Type: text/javascript
+
+Uri: https://fonts.googleapis.com/css?family=Caveat:i%2Cbi%2C700%2C400&display=swap
+File Name: C:\Downloaded Web Sites\sites.google.com\css-2
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Google+Sans:400,500|Roboto:300,400,500,700|Source+Code+Pro:400,700&display=swap
+File Name: C:\Downloaded Web Sites\sites.google.com\css-1
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Lato:300%2C300italic%2C400%2C400italic%2C700%2C700italic&display=swap
+File Name: C:\Downloaded Web Sites\sites.google.com\css
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/caveat/v15/WnznHAc5bAfYB2QRah7pcpNvOx-pjfJ9eIWpZA.ttf
+File Name: C:\Downloaded Web Sites\sites.google.com\s\caveat\v15\WnznHAc5bAfYB2QRah7pcpNvOx-pjfJ9eIWpZA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/caveat/v15/WnznHAc5bAfYB2QRah7pcpNvOx-pjRV6eIWpZA.ttf
+File Name: C:\Downloaded Web Sites\sites.google.com\s\caveat\v15\WnznHAc5bAfYB2QRah7pcpNvOx-pjRV6eIWpZA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/googlesans/v44/4Ua_rENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RFD48TE63OOYKtrw2IJllpyw.ttf
+File Name: C:\Downloaded Web Sites\sites.google.com\s\googlesans\v44\4Ua_rENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RFD48TE63OOYKtrw2IJllpyw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/googlesans/v44/4Ua_rENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RFD48TE63OOYKtrwEIJllpyw.ttf
+File Name: C:\Downloaded Web Sites\sites.google.com\s\googlesans\v44\4Ua_rENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RFD48TE63OOYKtrwEIJllpyw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v23/S6u8w4BMUTPHjxsAXC-v.ttf
+File Name: C:\Downloaded Web Sites\sites.google.com\s\lato\v23\S6u8w4BMUTPHjxsAXC-v.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v23/S6u9w4BMUTPHh6UVSwiPHA.ttf
+File Name: C:\Downloaded Web Sites\sites.google.com\s\lato\v23\S6u9w4BMUTPHh6UVSwiPHA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v23/S6u9w4BMUTPHh7USSwiPHA.ttf
+File Name: C:\Downloaded Web Sites\sites.google.com\s\lato\v23\S6u9w4BMUTPHh7USSwiPHA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v23/S6uyw4BMUTPHjx4wWw.ttf
+File Name: C:\Downloaded Web Sites\sites.google.com\s\lato\v23\S6uyw4BMUTPHjx4wWw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v23/S6u_w4BMUTPHjxsI5wq_Gwfo.ttf
+File Name: C:\Downloaded Web Sites\sites.google.com\s\lato\v23\S6u_w4BMUTPHjxsI5wq_Gwfo.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v23/S6u_w4BMUTPHjxsI9w2_Gwfo.ttf
+File Name: C:\Downloaded Web Sites\sites.google.com\s\lato\v23\S6u_w4BMUTPHjxsI9w2_Gwfo.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v29/KFOlCnqEu92Fr1MmEU9fBBc9.ttf
+File Name: C:\Downloaded Web Sites\sites.google.com\s\roboto\v29\KFOlCnqEu92Fr1MmEU9fBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v29/KFOlCnqEu92Fr1MmSU5fBBc9.ttf
+File Name: C:\Downloaded Web Sites\sites.google.com\s\roboto\v29\KFOlCnqEu92Fr1MmSU5fBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v29/KFOlCnqEu92Fr1MmWUlfBBc9.ttf
+File Name: C:\Downloaded Web Sites\sites.google.com\s\roboto\v29\KFOlCnqEu92Fr1MmWUlfBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v29/KFOmCnqEu92Fr1Mu4mxP.ttf
+File Name: C:\Downloaded Web Sites\sites.google.com\s\roboto\v29\KFOmCnqEu92Fr1Mu4mxP.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/sourcecodepro/v21/HI_diYsKILxRpg3hIP6sJ7fM7PqPMcMnZFqUwX28DCuXtMlrSQ.ttf
+File Name: C:\Downloaded Web Sites\sites.google.com\s\sourcecodepro\v21\HI_diYsKILxRpg3hIP6sJ7fM7PqPMcMnZFqUwX28DCuXtMlrSQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/sourcecodepro/v21/HI_diYsKILxRpg3hIP6sJ7fM7PqPMcMnZFqUwX28DMyQtMlrSQ.ttf
+File Name: C:\Downloaded Web Sites\sites.google.com\s\sourcecodepro\v21\HI_diYsKILxRpg3hIP6sJ7fM7PqPMcMnZFqUwX28DMyQtMlrSQ.ttf
+Content Type: font/ttf
+
+Uri: https://lh3.googleusercontent.com/XdYZKpOs0-ieZCyNF7rV_SlBeIKg6Q3qRhsbxR_bIzKVfObIBrsqZ4NE-5mInnhS2Cfi9bITSPNbt5amAvrpMXk=w16383
+File Name: C:\Downloaded Web Sites\sites.google.com\XdYZKpOs0-ieZCyNF7rV_SlBeIKg6Q3qRhsbxR_bIzKVfObIBrsqZ4NE-5mInnhS2Cfi9bITSPNbt5amAvrpMXk=w16383
+Content Type: image/png
+
+Uri: https://lh4.googleusercontent.com/0UN7cNAtsiOaoQ-yizYi1ofFr_66wJWmPeZrWP7w8okTjAWFT-VeTeqCQFYDAfRQYWSKvkHKuoTC5lBgWTIriFA=w16383
+File Name: C:\Downloaded Web Sites\sites.google.com\0UN7cNAtsiOaoQ-yizYi1ofFr_66wJWmPeZrWP7w8okTjAWFT-VeTeqCQFYDAfRQYWSKvkHKuoTC5lBgWTIriFA=w16383
+Content Type: image/png
+
+Uri: https://lh4.googleusercontent.com/7kObpeJ1OTncm3CJZEOr3XksLAd-sk3qIWgBVEDVpxBYf-5QKMO8SwxQg8gAAb-6bhnCEnJfpcRWzr0addd_W4E=w16383
+File Name: C:\Downloaded Web Sites\sites.google.com\7kObpeJ1OTncm3CJZEOr3XksLAd-sk3qIWgBVEDVpxBYf-5QKMO8SwxQg8gAAb-6bhnCEnJfpcRWzr0addd_W4E=w16383
+Content Type: image/png
+
+Uri: https://lh4.googleusercontent.com/I0k4CzTPq63T3Eq2hcf0mQmhV3gGnr40nSsj8FzyVlPCoNbVBAhMPJTsPE713_Osr5ejSKrCE7bOVz5PeOMdLBc=w16383
+File Name: C:\Downloaded Web Sites\sites.google.com\I0k4CzTPq63T3Eq2hcf0mQmhV3gGnr40nSsj8FzyVlPCoNbVBAhMPJTsPE713_Osr5ejSKrCE7bOVz5PeOMdLBc=w16383
+Content Type: image/png
+
+Uri: https://lh4.googleusercontent.com/MNAOfZcMv4WpCmVhZ4YYimimERZKaGSWDrdpbQLkgw_w-V6O-WZ8qIAq63CDIQUyYD5FjSexX_xhIePsWhlF9A=w16383
+File Name: C:\Downloaded Web Sites\sites.google.com\MNAOfZcMv4WpCmVhZ4YYimimERZKaGSWDrdpbQLkgw_w-V6O-WZ8qIAq63CDIQUyYD5FjSexX_xhIePsWhlF9A=w16383
+Content Type: image/png
+
+Uri: https://lh5.googleusercontent.com/7MUK_ta-Z77N21Ur4uz6owN3Tqckt2Cvtku4aagFeecrLpttARWysPbCEWWrb6u9E4MfUkWZwgTYiCI7PraOhtY=w16383
+File Name: C:\Downloaded Web Sites\sites.google.com\7MUK_ta-Z77N21Ur4uz6owN3Tqckt2Cvtku4aagFeecrLpttARWysPbCEWWrb6u9E4MfUkWZwgTYiCI7PraOhtY=w16383
+Content Type: image/png
+
+Uri: https://lh5.googleusercontent.com/a7TWML2H8TcZHcjSaCcPcDabRR2TuaSD3dmERE8sG918pskdI5tkRql9kILGLSJRGLYZAziyBER0mnfWus-KyeU=w16383
+File Name: C:\Downloaded Web Sites\sites.google.com\a7TWML2H8TcZHcjSaCcPcDabRR2TuaSD3dmERE8sG918pskdI5tkRql9kILGLSJRGLYZAziyBER0mnfWus-KyeU=w16383
+Content Type: image/png
+
+Uri: https://lh5.googleusercontent.com/EVKu5zTRcOZvJ5p4tn4LjQ19Jbt202_GI6W7GX8tPsMA1pmC3UmrsnMeGaMIT4SGLBuIh3IgtAtAYVdYRP1xsw=w16383
+File Name: C:\Downloaded Web Sites\sites.google.com\EVKu5zTRcOZvJ5p4tn4LjQ19Jbt202_GI6W7GX8tPsMA1pmC3UmrsnMeGaMIT4SGLBuIh3IgtAtAYVdYRP1xsw=w16383
+Content Type: image/png
+
+Uri: https://lh5.googleusercontent.com/g6orl6r9S31loDSzbYdiTEZoUfgjCjJx39z4N6MFzkMxugcyvuWRvLACHhL1itUZmSUxT0SYYIFPtFj6X3GTSehU18Pt3TJwr3-KXgX4-BolGhrr
+File Name: C:\Downloaded Web Sites\sites.google.com\g6orl6r9S31loDSzbYdiTEZoUfgjCjJx39z4N6MFzkMxugcyvuWRvLACHhL1itUZmSUxT0SYYIFPtFj6X3GTSehU18Pt3TJwr3-KXgX4-BolGhrr
+Content Type: image/png
+
+Uri: https://lh5.googleusercontent.com/WGpQl_Wm1alGFJFo-YzBdbPA4ftwGpOd-SVOghIFN1Q1NjNDmMhv_vnRNK9K6pWGUelM1ajEyH2Z7X7bwxBkOdo=w16383
+File Name: C:\Downloaded Web Sites\sites.google.com\WGpQl_Wm1alGFJFo-YzBdbPA4ftwGpOd-SVOghIFN1Q1NjNDmMhv_vnRNK9K6pWGUelM1ajEyH2Z7X7bwxBkOdo=w16383
+Content Type: image/jpeg
+
+Uri: https://lh6.googleusercontent.com/Fa5rGEGQEklJ9QMHgxOPHiszo2PGcR6qnMogbyAu-Zx1d-hRZX8cgwacJ9b-FJtRSHWoV2zF-Fvy1r7rTH5watw=w16383
+File Name: C:\Downloaded Web Sites\sites.google.com\Fa5rGEGQEklJ9QMHgxOPHiszo2PGcR6qnMogbyAu-Zx1d-hRZX8cgwacJ9b-FJtRSHWoV2zF-Fvy1r7rTH5watw=w16383
+Content Type: image/png
+
+Uri: https://lh6.googleusercontent.com/lzZ37StVWvuotBugRlKOGOH3VYtK6RMqMzsFAO1L0R6ZXOUR7pDiLAiU420fIabwJgmamPggf8zWSZEn-9pQJQ=w16383
+File Name: C:\Downloaded Web Sites\sites.google.com\lzZ37StVWvuotBugRlKOGOH3VYtK6RMqMzsFAO1L0R6ZXOUR7pDiLAiU420fIabwJgmamPggf8zWSZEn-9pQJQ=w16383
+Content Type: image/png
+
+Uri: https://lh6.googleusercontent.com/MyCbfXxqhEOlhsvJMa41k-RDNp_OXg8h4M3tNp820Lnkkwf_9I6LMVyDi1IPzPy9mffXn_Iu5nFY4WvrLVFOnDI=w16383
+File Name: C:\Downloaded Web Sites\sites.google.com\MyCbfXxqhEOlhsvJMa41k-RDNp_OXg8h4M3tNp820Lnkkwf_9I6LMVyDi1IPzPy9mffXn_Iu5nFY4WvrLVFOnDI=w16383
+Content Type: image/jpeg
+
+Uri: https://lh6.googleusercontent.com/vELZaXRIJebDGYtaw0rT_axXU1ES7sKkhasIYJLY6lbD_CdTmsUUMauY824qcgRT6vlj_OxY33E06bND27IKnfU=w16383
+File Name: C:\Downloaded Web Sites\sites.google.com\vELZaXRIJebDGYtaw0rT_axXU1ES7sKkhasIYJLY6lbD_CdTmsUUMauY824qcgRT6vlj_OxY33E06bND27IKnfU=w16383
+Content Type: image/png
+
+Uri: https://lh6.googleusercontent.com/vrIBhek7ASSUy3sz6nCRen1xvGPMoFsw_NJB-HXz-NpjGyrv3MuZ-rtR2CJJaIuK3Zp4cW1TF68pIBnpB00oAF0=w16383
+File Name: C:\Downloaded Web Sites\sites.google.com\vrIBhek7ASSUy3sz6nCRen1xvGPMoFsw_NJB-HXz-NpjGyrv3MuZ-rtR2CJJaIuK3Zp4cW1TF68pIBnpB00oAF0=w16383
+Content Type: image/png
+
+Uri: https://sites.google.com/view/garnakava-yaremche/
+File Name: C:\Downloaded Web Sites\sites.google.com\view\garnakava-yaremche\index.htm
+Content Type: text/html
+
+Uri: https://sites.google.com/view/garnakava-yaremche/головна-сторінка
+File Name: C:\Downloaded Web Sites\sites.google.com\view\garnakava-yaremche\головна-сторінка.html
+Content Type: text/html
+
+Uri: https://sites.google.com/view/garnakava-yaremche/контакти
+File Name: C:\Downloaded Web Sites\sites.google.com\view\garnakava-yaremche\контакти.html
+Content Type: text/html
+
+Uri: https://sites.google.com/view/garnakava-yaremche/меню
+File Name: C:\Downloaded Web Sites\sites.google.com\view\garnakava-yaremche\меню.html
+Content Type: text/html
+
+Uri: https://ssl.gstatic.com/atari/images/cloudsearch/icons_ldpi-f79964f7f886f44608d6398f29bddba7.png
+File Name: C:\Downloaded Web Sites\sites.google.com\atari\images\cloudsearch\icons_ldpi-f79964f7f886f44608d6398f29bddba7.png
+Content Type: image/png
+
+Uri: https://ssl.gstatic.com/atari/images/cloudsearch/internal_ldpi-8728a3a67f38069303f7d4ca99a59394.png
+File Name: C:\Downloaded Web Sites\sites.google.com\atari\images\cloudsearch\internal_ldpi-8728a3a67f38069303f7d4ca99a59394.png
+Content Type: image/png
+
+Uri: https://ssl.gstatic.com/atari/images/simple-header-blended-small.png
+File Name: C:\Downloaded Web Sites\sites.google.com\atari\images\simple-header-blended-small.png
+Content Type: image/png
+
+Uri: https://ssl.gstatic.com/docs/common/material_common_sprite369.svg
+File Name: C:\Downloaded Web Sites\sites.google.com\docs\common\material_common_sprite369.svg
+Content Type: image/svg+xml
+
+Uri: https://ssl.gstatic.com/docs/common/material_common_sprite369_grey_medium.svg
+File Name: C:\Downloaded Web Sites\sites.google.com\docs\common\material_common_sprite369_grey_medium.svg
+Content Type: image/svg+xml
+
+Uri: https://ssl.gstatic.com/docs/common/shortcut_sprite1.png
+File Name: C:\Downloaded Web Sites\sites.google.com\docs\common\shortcut_sprite1.png
+Content Type: image/png
+
+Uri: https://ssl.gstatic.com/docs/common/v-icons4.png
+File Name: C:\Downloaded Web Sites\sites.google.com\docs\common\v-icons4.png
+Content Type: image/png
+
+Uri: https://ssl.gstatic.com/docs/common/v-spinner_dark.gif
+File Name: C:\Downloaded Web Sites\sites.google.com\docs\common\v-spinner_dark.gif
+Content Type: image/gif
+
+Uri: https://ssl.gstatic.com/docs/common/v-spinner_gray.gif
+File Name: C:\Downloaded Web Sites\sites.google.com\docs\common\v-spinner_gray.gif
+Content Type: image/gif
+
+Uri: https://ssl.gstatic.com/docs/common/viewer/v-sprite19.svg
+File Name: C:\Downloaded Web Sites\sites.google.com\docs\common\viewer\v-sprite19.svg
+Content Type: image/svg+xml
+
+Uri: https://ssl.gstatic.com/docs/common/viewer/v3/v-sprite43.svg
+File Name: C:\Downloaded Web Sites\sites.google.com\docs\common\viewer\v3\v-sprite43.svg
+Content Type: image/svg+xml
+
+Uri: https://ssl.gstatic.com/docs/picker/images/loading_spinner.svg
+File Name: C:\Downloaded Web Sites\sites.google.com\docs\picker\images\loading_spinner.svg
+Content Type: image/svg+xml
+
+Uri: https://ssl.gstatic.com/s2/tt/images/play-overlay.png
+File Name: C:\Downloaded Web Sites\sites.google.com\s2\tt\images\play-overlay.png
+Content Type: image/png
+
+Uri: https://ssl.gstatic.com/ui/v1/activityindicator/loading_bg_f5.gif
+File Name: C:\Downloaded Web Sites\sites.google.com\ui\v1\activityindicator\loading_bg_f5.gif
+Content Type: image/gif
+
+Uri: https://ssl.gstatic.com/ui/v1/dialog/close-x.png
+File Name: C:\Downloaded Web Sites\sites.google.com\ui\v1\dialog\close-x.png
+Content Type: image/png
+
+Uri: https://ssl.gstatic.com/ui/v1/disclosure/small-grey-disclosure-arrow-down.png
+File Name: C:\Downloaded Web Sites\sites.google.com\ui\v1\disclosure\small-grey-disclosure-arrow-down.png
+Content Type: image/png
+
+Uri: https://ssl.gstatic.com/ui/v1/icons/common/x_8px.png
+File Name: C:\Downloaded Web Sites\sites.google.com\ui\v1\icons\common\x_8px.png
+Content Type: image/png
+
+Uri: https://www.gstatic.com/_/atari/_/js/k=atari.vw.uk.5jEUSqML0Z0.O/d=1/rs=AGEqA5kI4VEyvDhi38pCQoKMeGDubr-cxg/m=view
+File Name: C:\Downloaded Web Sites\sites.google.com\_\atari\_\js\k=atari.vw.uk.5jEUSqML0Z0.O\d=1\rs=AGEqA5kI4VEyvDhi38pCQoKMeGDubr-cxg\m=view
+Content Type: text/javascript
+
+Uri: https://www.gstatic.com/_/atari/_/ss/k=atari.vw.Gcaiud995MI.L.X.O/d=1/rs=AGEqA5nLpdTnNwmLB1bs33yy2_2MyFfkkQ
+File Name: C:\Downloaded Web Sites\sites.google.com\_\atari\_\ss\k=atari.vw.Gcaiud995MI.L.X.O\d=1\rs=AGEqA5nLpdTnNwmLB1bs33yy2_2MyFfkkQ
+Content Type: text/css
+
